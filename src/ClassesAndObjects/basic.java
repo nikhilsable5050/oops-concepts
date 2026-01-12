@@ -17,3 +17,5 @@ public class basic {
         p1.write();
     }
 }
+
+
